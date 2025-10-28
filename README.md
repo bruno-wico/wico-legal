@@ -20,3 +20,6 @@ Wico App (la “App”) utiliza la cámara del dispositivo exclusivamente para *
    - Para consultas o solicitudes (acceso, rectificación, eliminación) contactanos en: soporte@wico.com.ar
 
 Al usar la App aceptás esta política.
+
+# Eliminar tu cuenta
+Para eliminar tu cuenta, envia un correo a soporte@wico.com.ar con tus datos solocitando la eliminación.
